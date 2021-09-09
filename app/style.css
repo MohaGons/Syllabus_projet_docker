@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+  .center{
+    font-family: 'Montserrat';
+    font-size: 45px;
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    right: 0;
+  }
+  
+  .select{
+    border-radius: 10px 20px;
+    cursor:pointer;
+    background-color: #000;
+    color: white;
+    width: 150px;
+    height: 40px;
+    transition: all 0.4s ease;
+  }
+  .select:hover{
+    border-radius: 10px 20px;
+    background-color: white;
+    color:black;
+    width: 150px;
+    height: 40px;
+    transition: all 0.4s ease;
+  }
+  
+  .select2{
+    border-radius: 20px 10px;
+    background-color:black;
+    color: white;
+    cursor:pointer;
+    width: 150px;
+    height: 40px;
+    transition: all 0.4s ease;
+  }
+  
+  .select2:hover{
+    border-radius: 20px 10px;
+    background-color:white;
+    color: black;
+    width: 150px;
+    height: 40px;
+    transition: all 0.4s ease;
+  }
+  
+  .select3{
+    border-radius: 5px 10px;
+    background-color: #FFF;
+    color: black;
+    width: 80px;
+    height: 25px;
+  }
+  
+   .btn:hover{
+    color: rgb(7, 185, 7);
+    background:black;
+    transition: all 0.4s ease;
+  }
+  
+  .averagebold{
+    color:crimson ;
+    font-weight: 900;
+  }
+  
+  .centeraverage{
+    font-family: 'Montserrat';
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    left: 0;
+    right: 0;
+  }
+  
+  .form{
+    text-align: center;
+    padding: 120px;
+  }
+  
+  .header
+  {
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+  }
+  
+  .inner_header
+  {
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .logo_container
+  {
+    height: 100%;
+    display: table;
+    float: left;
+  }
+  .logo_container a
+  {
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-size: 22px;
+  }
+
+
+  .table {
+      text-align: center;
+  }
+
+  
+  
+  .logo_container h1 span
+  {
+    font-weight: 20;
+  }
+  
+  .navigation
+  {
+    float: right;
+    height: 100%;
+  }
+  
+  .navigation a
+  {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+  }
+  
+  .navigation a:last-child
+  {
+    padding-right: 0;
+  }
+  
+  .navigation a li
+  {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+  }
+  
+  #footer
+  {
+      background-color: #000;
+      font-family: 'Montserrat';
+      padding: 15px 30px 15px 30px;
+      text-align: center;
+      color: #FFF;
+      width:100%;
+      font-size:16px;
+      font-weight: 800;
+      z-index: 10;
+     
+  }
+  
+  .averagedisplay{
+    margin: 20px;
+  }
+  
+  .bigdiv{
+    margin: 50px;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .thatsaverage{
+    font-size: 40px;
+  }
+  
+  .average{
+    text-align: center;
+  }
+  
+  
+  
