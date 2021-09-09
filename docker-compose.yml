@@ -17,6 +17,7 @@ services:
       - "3307:3306"
     volumes:
       - dbdata:/var/lib/mysql
+      - ./dump/db.sql:/docker-entrypoint-initdb.d/db.sql
 
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
