@@ -38,14 +38,14 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `pseudo`, `password`) VALUES
-(4, 'selim', '$2y$10$2zsamz6nZ5nWTBts/x.O4OAnFqQqweqgSgAgMGQlpm5hXYteew3iC'),
-(5, 'selim', '$2y$10$NSQvdEJrJGRL34QjYsedqerVwrJ6qsCNbrGj1isJ5t6Vw4seRUnQC'),
-(6, 'selim', '$2y$10$.mM1Q0HR/wQKMU/KrAoRmeeckSIy1NsTIfHN4DAYOtcUexNpWH2wS'),
-(7, 'selim', '$2y$10$tkOnwmiS.KZ.XY6liu/m3uYX0/SLZb8WRseVtIAdXIfDAlObvADQ2'),
-(8, 'selimmm', '$2y$10$277VLeSut0JtoT5pYXCrXuyVMp0tR38nIkuyXAuqepIHCwSJlpyLe'),
-(9, 'azerty', '$2y$10$AnXIdXS09iq/byqosJ8ZEObyFXxL4yDADatdNqmsf0SoMP1YpordC'),
-(10, 'selimmmmm', '$2y$10$ybfQqqNsVMB8JlZl/opFs.H1tcK7WeHUU/5RGxLzx5ufwwUtuK7BK'),
-(11, 'selim', '$2y$10$3FF5zZ5y5iXJXulmbvvCEO1mXQLcXLCkgk71b6wz5qwZcmx.Zr4pS');
+(4, 'Sylvain', '$2y$10$2zsamz6nZ5nWTBts/x.O4OAnFqQqweqgSgAgMGQlpm5hXYteew3iC'),
+(5, 'Selim', '$2y$10$NSQvdEJrJGRL34QjYsedqerVwrJ6qsCNbrGj1isJ5t6Vw4seRUnQC'),
+(6, 'Ossama', '$2y$10$.mM1Q0HR/wQKMU/KrAoRmeeckSIy1NsTIfHN4DAYOtcUexNpWH2wS'),
+(7, 'Julien', '$2y$10$tkOnwmiS.KZ.XY6liu/m3uYX0/SLZb8WRseVtIAdXIfDAlObvADQ2'),
+(8, 'Maxime', '$2y$10$277VLeSut0JtoT5pYXCrXuyVMp0tR38nIkuyXAuqepIHCwSJlpyLe'),
+(9, 'Leo', '$2y$10$AnXIdXS09iq/byqosJ8ZEObyFXxL4yDADatdNqmsf0SoMP1YpordC'),
+(10, 'Sananes', '$2y$10$ybfQqqNsVMB8JlZl/opFs.H1tcK7WeHUU/5RGxLzx5ufwwUtuK7BK'),
+(11, 'Briatte', '$2y$10$3FF5zZ5y5iXJXulmbvvCEO1mXQLcXLCkgk71b6wz5qwZcmx.Zr4pS');
 
 --
 -- Index pour les tables déchargées
