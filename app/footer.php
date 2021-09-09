@@ -11,6 +11,6 @@
   <body>
   </body>
   <footer class="footer2" id="footer">
-    <p class="myself"><?php echo "® Copyright" . " Selim Yasar " . $today ?></p>
+    <p class="myself"><?php echo "® Copyright" . " Projet Docker " . $today ?></p>
   </footer>
 </html>
